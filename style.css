@@ -1,0 +1,27 @@
+@font-face {
+    font-family: d;
+    src: url(GmarketSansOTF/GmarketSansLight.otf);
+}
+
+body{
+    background-color: black;
+    font-family:d;
+    color: white;
+}
+.a{
+    display: block;
+    background-image: url(1.avif);
+    height: 30px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+
+h3{
+    
+    text-align: center;
+}
+.ax{
+    background-color: gray;
+}
